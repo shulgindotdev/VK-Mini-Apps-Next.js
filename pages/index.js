@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import bridge from '@vkontakte/vk-bridge';
-import eruda from 'eruda/eruda.min.js';
+import eruda from 'eruda/eruda';
 
 eruda.init();
 
